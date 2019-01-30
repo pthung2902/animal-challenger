@@ -7,9 +7,9 @@ a. How did you unit test it?
 b. How did you optimize the code for maintainability?
 (Ask yourself the same question for all following exercises)
 >>Always do unit testing
->>Comment code and requirement
->>Unit testing
->>Code review by your-self (or pair code review) to optimise and refactor code
+>>,comment code and requirement
+>>, do Unit testing
+>>, Code review by your-self (or pair code review) to optimise and refactor code
 
 
 
@@ -46,3 +46,5 @@ lives near a Duck? Or near a phone that rings frequently?
 Rest full
 Using Spring MVC and Mock MVC request for testing (resf unit test attached)
 
+#
+Class diagram was attached
